@@ -30,7 +30,7 @@ This project analyzes and visualizes global COVID-19 data trends such as total c
 1. Clone or download this repository to your local machine.
 2. Download the COVID-19 dataset from [Our World in Data](https://docs.owid.io/projects/etl/api/covid/#publications).
 3. Save the file as `owid-covid-data.csv` in the project directory.
-4. Open the Jupyter Notebook `covid19_data_tracker.ipynb`.
+4. Open the Jupyter Notebook `data_tracker.ipynb`.
 5. Run the cells step-by-step to view the analysis and visualizations.
 
 ---
