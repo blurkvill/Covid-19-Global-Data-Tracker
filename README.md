@@ -8,7 +8,7 @@ This project analyzes and visualizes global COVID-19 data trends such as total c
 
 - Import and clean global COVID-19 data from Our World in Data
 - Analyze trends in cases, deaths, and vaccinations over time
-- Compare metrics between countries (e.g., Kenya, USA, India)
+- Compare metrics between countries (Germany, USA, India)
 - Visualize key metrics using line plots, bar charts, and choropleth maps
 - Communicate insights clearly through visualizations and narrative summaries
 
