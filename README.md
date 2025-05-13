@@ -17,10 +17,10 @@ This project analyzes and visualizes global COVID-19 data trends such as total c
 ## 🛠️ Tools & Libraries Used
 
 - Python 3.12.8
-- [pandas] – Data manipulation
-- [matplotlib] – Basic plotting
-- [seaborn] – Statistical data visualization
-- [plotly] – Interactive choropleth maps
+- pandas – Data manipulation
+- matplotlib – Basic plotting
+- seaborn – Statistical data visualization
+- plotly – Interactive choropleth maps
 - Jupyter Notebook or VS Code with Jupyter extension
 
 ---
